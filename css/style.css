@@ -9796,7 +9796,7 @@ a.text-dark:hover, a.text-dark:focus {
 .separator {
   font-weight: 700;
   color: #8c5e6f;
-  margin: 0 10px; /* spacing around colons */
+  margin: 0 5px; /* spacing around colons */
 }
 
 .countdown-labels {
@@ -9805,7 +9805,7 @@ a.text-dark:hover, a.text-dark:focus {
   font-size: 12px;
   display: flex;
   justify-content: center;
-  gap: 40px; /* space between labels */
+  gap: 20px; /* space between labels */
   margin-top: 8px;
 }
 
