@@ -9767,7 +9767,7 @@ a.text-dark:hover, a.text-dark:focus {
 
 .countdown-wrapper {
   text-align: center;
-  max-width: 600px;
+  max-width: 500px;
   margin: 40px auto;
   padding: 30px 20px;
   border-radius: 8px;
@@ -9782,14 +9782,14 @@ a.text-dark:hover, a.text-dark:focus {
 
 #countdown {
   font-size: 48px;
-  font-weight: 700;
+  font-weight: 800;
   display: flex;
   justify-content: center;
-  gap: 1px; /* space between numbers and colons */
+  gap: 0px; /* space between numbers and colons */
 }
 
 #countdown span {
-  min-width: 60px;
+  min-width: 10px;
   display: inline-block;
 }
 
@@ -9805,7 +9805,7 @@ a.text-dark:hover, a.text-dark:focus {
   font-size: 12px;
   display: flex;
   justify-content: center;
-  gap: 30px; /* space between labels */
+  gap: 40px; /* space between labels */
   margin-top: 8px;
 }
 
